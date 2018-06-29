@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Login-St",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password",
+		"user"
+	],
+	"name" : "LsLogin",
+	"type" : "normal"
+}
