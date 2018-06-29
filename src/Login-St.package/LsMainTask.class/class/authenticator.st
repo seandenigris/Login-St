@@ -1,0 +1,3 @@
+accessing
+authenticator
+	self subclassResponsibility
