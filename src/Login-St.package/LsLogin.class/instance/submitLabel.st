@@ -1,0 +1,3 @@
+Component
+submitLabel
+	^ 'Log In'

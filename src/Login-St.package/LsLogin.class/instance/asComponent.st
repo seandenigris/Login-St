@@ -1,5 +1,5 @@
 accessing-magritte
 asComponent
 	^ super asComponent 
-			addValidatedForm: { [ :comp | self loginVia: comp ] -> 'Login' };
+			addValidatedForm: { [ :comp | self submitVia: comp ] -> self submitLabel };
 			yourself
